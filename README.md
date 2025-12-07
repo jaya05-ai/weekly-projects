@@ -40,17 +40,13 @@ How the Project Works
 Screenshots
 
 
-[Add Task](<img width="1920" height="1080" alt="add" src="https://github.com/user-attachments/assets/a40b5652-e11b-4962-a3e1-c8af86d19caa" />
-)
+[Add Task] (https://github.com/user-attachments/assets/a40b5652-e11b-4962-a3e1-c8af86d19caa)
 
-[Task List](<img width="1920" height="1080" alt="task list" src="https://github.com/user-attachments/assets/3142d255-a92d-4926-8609-7b8eb29d4505" />
-)
+[Task List](https://github.com/user-attachments/assets/3142d255-a92d-4926-8609-7b8eb29d4505)
 
-[Completed Task](<img width="1920" height="1080" alt="complete" src="https://github.com/user-attachments/assets/8fed24be-5954-47c3-9e3b-9b2d8d8d6f6e" />
-)
+[Completed Task](https://github.com/user-attachments/assets/8fed24be-5954-47c3-9e3b-9b2d8d8d6f6e )
 
-[Delete Task](lin<img width="1920" height="1080" alt="delete" src="https://github.com/user-attachments/assets/a4b0b6cb-1593-4aab-9cec-50b19a9fc7f9" />
-)
+[Delete Task](https://github.com/user-attachments/assets/a4b0b6cb-1593-4aab-9cec-50b19a9fc7f9)
 
 
 What I Learned
@@ -62,6 +58,7 @@ What I Learned
 - Using localStorage to store and retrieve data
 - Organizing project files and workflow
 - Basic Git & GitHub version control
+
 
 
 
